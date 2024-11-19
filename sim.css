@@ -1,0 +1,45 @@
+body{
+    height: 600px;
+    width: 500px;
+    display: inline;
+    justify-content: center;
+    text-align: center;
+    background: linear-gradient(#54b371,#e284e2,#b5d67c)
+}
+ .btn-container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 100px; 
+    box-shadow: 5px 8px  rgb(28, 207, 67);
+} 
+h1{
+    color: rgb(51, 61, 153);
+
+}
+.btn{
+    border: 2px solid black;
+    height: 100px;
+    width: 150px;
+    margin: 20px;
+    border-radius: 50px;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.yellow{
+    background-color: yellow;
+}
+.blue{
+    background-color: blue;
+}
+.flash{
+    background-color: white;
+}
+.userflash{
+    background-color: black;
+}
